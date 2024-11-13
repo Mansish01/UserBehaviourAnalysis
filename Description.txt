@@ -1,0 +1,41 @@
+Dataset Overview: 
+Mobile device usage dataset containing 700 samples of user data, covering metrics such as app usage time, screen-on time, battery drain, and data consumption.
+
+Key Features:
+
+User ID: Unique identifier for each user.
+Device Model: User’s smartphone model.
+Operating System: OS of the device (iOS or Android).
+App Usage Time: Daily time spent on applications (minutes).
+Screen On Time: Daily active screen hours.
+Battery Drain: Daily battery usage (mAh).
+Number of Apps Installed: Count of apps on the device.
+Data Usage: Daily mobile data consumption (MB).
+Age, Gender: Demographic features.
+User Behavior Class: Usage pattern class (1 to 5).
+Objective: To classify user behavior into one of five categories based on mobile usage patterns, aiding in understanding mobile user behavior for potential predictive modeling applications.
+
+Process:
+Data Visualization:  
+Explored relationships between variables and checked for correlations among features.
+
+Model Selection & Training: 
+Tested Logistic Regression, SVM, Random Forest, and KNN models on the dataset.
+
+
+Performance Comparison: 
+Evaluated each model’s accuracy and performance to identify the most effective approach for user behavior classification.
+
+
+This task highlights feature analysis and comparative model evaluation, ideal for developing insights into mobile usage behavior through machine learning.
+
+
+
+
+
+
+
+
+
+
+
